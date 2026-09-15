@@ -3,8 +3,24 @@
           Aplikasi Kasir & Manajemen Toko
 ============================================================
 
+1. AKUN DEFAULT
+------------------------------------------------------------
 
-1. FITUR UTAMA
+Administrator
+-------------
+Username : admin
+Password : admin123
+
+Kasir
+-----
+Username : kasir
+Password : 123
+
+CATATAN:
+Akun default digunakan untuk keperluan demonstrasi dan
+pengujian aplikasi.
+
+2. FITUR UTAMA
 ------------------------------------------------------------
 
 - Login pengguna dengan sistem role
@@ -22,7 +38,7 @@
 - Aplikasi desktop Windows (.exe)
 
 
-2. ROLE PENGGUNA
+3. ROLE PENGGUNA
 ------------------------------------------------------------
 
 ADMINISTRATOR
@@ -37,7 +53,7 @@ Kasir memiliki akses terhadap fitur Point of Sale (POS)
 untuk melakukan proses transaksi penjualan.
 
 
-3. TEKNOLOGI YANG DIGUNAKAN
+4. TEKNOLOGI YANG DIGUNAKAN
 ------------------------------------------------------------
 
 Backend
@@ -67,25 +83,6 @@ Development Tools
 - Composer
 - Node.js
 - npm
-
-
-4. AKUN DEFAULT
-------------------------------------------------------------
-
-Administrator
--------------
-Username : admin
-Password : admin123
-
-Kasir
------
-Username : kasir
-Password : 123
-
-CATATAN:
-Akun default digunakan untuk keperluan demonstrasi dan
-pengujian aplikasi.
-
 
 5. BUILD APLIKASI WINDOWS
 ------------------------------------------------------------
