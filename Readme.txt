@@ -3,6 +3,10 @@
           Aplikasi Kasir & Manajemen Toko
 ============================================================
 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=
+Buka ReiKonter.exe di dalam folder win-unpacked atau Instal Reikonter-1.0.0-setup.exe
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=
+
 1. AKUN DEFAULT
 ------------------------------------------------------------
 
@@ -84,24 +88,7 @@ Development Tools
 - Node.js
 - npm
 
-5. BUILD APLIKASI WINDOWS
-------------------------------------------------------------
-
-Platform:
-- Windows x64
-
-Format:
-- Windows Executable (.exe)
-- NSIS Installer
-
-File aplikasi:
-    reikonter.exe
-
-File installer:
-    ReiKonter-1.0.0-setup.exe
-
-
-6. DEVELOPER
+5. DEVELOPER
 ------------------------------------------------------------
 
 Project:
