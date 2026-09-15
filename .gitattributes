@@ -1,0 +1,2 @@
+ReiKonter-1.0.0-setup.exe filter=lfs diff=lfs merge=lfs -text
+reikonter.exe filter=lfs diff=lfs merge=lfs -text
